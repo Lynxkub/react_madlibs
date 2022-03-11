@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      <h3>
+        MadLibs!
+      </h3>
+      <form>
+        <input
+          data-testid="noun"
+          id="noun"
+          name="noun"
+          placeholder="Noun"
+          type="text"
+          value=""
+        />
+        <br />
+        <input
+          data-testid="verb"
+          id="verb"
+          name="verb"
+          placeholder="verb"
+          type="text"
+          value=""
+        />
+        <br />
+        <input
+          data-testid="adjective"
+          id="adjective"
+          name="adjective"
+          placeholder="adjective"
+          type="text"
+          value=""
+        />
+        <br />
+        <input
+          data-testid="adverb"
+          id="adverb"
+          name="adverb"
+          placeholder="adverb"
+          type="text"
+          value=""
+        />
+        <br />
+        <button>
+          Create Story!
+        </button>
+      </form>
+    </div>
+  </div>
+</DocumentFragment>
+`;
